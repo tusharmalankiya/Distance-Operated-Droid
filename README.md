@@ -19,7 +19,7 @@ This project features a versatile robot controlled wirelessly via Bluetooth comm
 To get started, follow these steps:
 
 1. **Setup**: Connect and configure the Atmega32 microcontroller, L293D motor driver, HC06 Bluetooth module, and LCD display according to the provided hardware diagram.
-2. **Upload Code**: Load the provided firmware with the `.hex` extension in direcory `Atmel`>`Debug` directory to the Atmega32 microcontroller using your preferred tool, such as **extreamBurner**.
+2. **Upload Code**: Load the provided firmware with the `.hex` extension in `Atmel`>`Debug` directory to the Atmega32 microcontroller using your preferred tool, such as **extreamBurner**.
 3. **Pair Bluetooth Module**: Pair the HC06 Bluetooth module with your Bluetooth-enabled device.
 4. **Control**: Send commands from your Bluetooth-enabled device to control the robot wirelessly.
 5. **Monitor**: Observe real-time command feedback on the LCD display to verify successful communication and control.
