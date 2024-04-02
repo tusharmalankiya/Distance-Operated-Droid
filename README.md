@@ -2,6 +2,10 @@
 
 This project features a versatile robot controlled wirelessly via Bluetooth communication. The robot employs an Atmega32 microcontroller, an L293D motor driver, an HC06 Bluetooth module, and an LCD display for real-time command feedback. With the use of the USART protocol, the microcontroller communicates wirelessly with the Bluetooth module, allowing users to send commands remotely. The robot's motors are controlled by the microcontroller based on the commands received, enabling it to perform various tasks according to user inputs.
 
+## Schematic
+![img](https://github.com/tusharmalankiya/Distance-Operated-Droid/assets/85736626/770dbe5b-69b0-4cc8-9a5e-69fc7b6a1374)
+
+
 ## Features
 
 - **Bluetooth Control**: Wirelessly control the robot using any Bluetooth-enabled device.
