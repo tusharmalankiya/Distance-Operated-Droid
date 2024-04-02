@@ -30,5 +30,5 @@ Contributions to this project are welcome! If you have any ideas for improvement
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the GNU General Public License (GPL) version 3.0. By accessing or using this project, you agree to comply with the terms and conditions outlined in the [LICENSE](LICENSE) file.
 
